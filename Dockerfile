@@ -1,7 +1,7 @@
 FROM python:3.11-slim-buster
 
 #Establecer directorio de trabajo
-WORKDIR /REPORTES_USUARIOS
+WORKDIR /PUNTOS_RECOLECCION
 
 COPY requirements.txt .
 
